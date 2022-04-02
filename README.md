@@ -4,3 +4,13 @@
 - 👯 I’m looking for opportunites as a Data Scientist starting July 2022.
 - 📫 How to reach me: abhinav.singh@essec.edu
 - 😄 Pronouns: He/Him
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Programming Languages  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="Python" height="50" />  
