@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AbhinavSingh6295/AbhinavSingh6295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently in my final year of Master's in Data Science and Business Analytics at ESSEC Business School and CentraleSupelec.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
