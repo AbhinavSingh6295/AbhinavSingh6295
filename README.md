@@ -1,7 +1,8 @@
 <img src="https://github.com/AbhinavSingh6295/AbhinavSingh6295/blob/main/download.png">
 
-- 🔭 I’m currently in my final year of Master's in Data Science and Business Analytics at ESSEC Business School and CentraleSupelec.
-- 👯 I’m looking for opportunites as a Data Scientist starting July 2022.
+- 🔭 Data Scientist with 5+ years of experience in building scalable machine learning solutions and data pipelines across supply chain, pricing & customer analytics.
+- 👯 I’m looking for opportunites as a Senior Data Scientist.
+- 📫 Skilled in Python, SQL, Git and AWS with a strong foundation in forecasting, dimensional modelling and business impact delivery.
 - 📫 How to reach me: abhinav.singh@essec.edu
 - 😄 Pronouns: He/Him
 
