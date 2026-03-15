@@ -3,7 +3,7 @@
 - 🔭 Data Scientist with 5+ years of experience in building scalable machine learning solutions and data pipelines across supply chain, pricing & customer analytics.
 - 👯 I’m looking for opportunites as a Senior Data Scientist.
 - 📫 Skilled in Python, SQL, Git and AWS with a strong foundation in forecasting, dimensional modelling and business impact delivery.
-- 📫 How to reach me: abhinav.singh@essec.edu
+- 📫 How to reach me: abhinavsingh228989@gmail.com
 - 😄 Pronouns: He/Him
 
 ## My Skill Set  
